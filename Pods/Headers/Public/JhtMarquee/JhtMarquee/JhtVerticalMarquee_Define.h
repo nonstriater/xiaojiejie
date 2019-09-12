@@ -1,0 +1,1 @@
+../../../../JhtMarquee/JhtMarquee_SDK/JhtMarquee.framework/Headers/JhtVerticalMarquee_Define.h
